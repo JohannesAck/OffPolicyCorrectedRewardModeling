@@ -1,0 +1,6 @@
+models
+runs
+eval
+eval_tables
+wandb
+.venv
