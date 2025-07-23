@@ -1,5 +1,6 @@
 # Implementation for "Off-Policy Corrected Reward Modeling for RLHF"
 
+### Find our paper at https://arxiv.org/abs/2507.15507 and visit our poster at COLM2025!
 
 The experiment is split into multiple files, which are integrated in the `ocrm_full_1B_tldr.sh` script.
 The steps are
